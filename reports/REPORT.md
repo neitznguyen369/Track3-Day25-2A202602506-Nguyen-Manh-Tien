@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Nguyen Manh Tien — MSV 2A202602506  **Commit:** "47d68b6"  **Điểm tự động (`make grade`):** 84 / 88 (4đ "dữ liệu ẩn" của Part E chỉ chấm trên máy giảng viên)
+**Họ tên / nhóm:** Nguyen Manh Tien — MSV 2A202602506  **Commit:** "9cb5081"  **Điểm tự động (`make grade`):** 84 / 88 (4đ "dữ liệu ẩn" của Part E chỉ chấm trên máy giảng viên)
 
 ## 1. Kết quả Game Day (naive vs của bạn)
 
